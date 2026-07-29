@@ -16,8 +16,8 @@
             "hash": "ab180044f4da025cd91135684a8603ae7cb8634eca9b9e924935f4d580334f29"
         },
         "arm64": {
-            "url": "https://dl.google.com/release2/chrome/ad4i4c6u6xawqnlrmqesv6t3u7ta_152.0.7977.2/152.0.7977.2_chrome_installer_uncompressed.exe#/dl.7z",
-            "hash": "8bfe95320247945963c6d3bad5214ad512c435243d50c17a3717d56f0b5afc99"
+            "url": "https://dl.google.com/release2/chrome/adiloytymm5qnantrdkm3vupozqq_152.0.7977.0/152.0.7977.0_chrome_installer_uncompressed.exe#/dl.7z",
+            "hash": "cd85999cfe7b9e4ea1efd4dd437011d20a22d2a86008c4805dfa4e471f97b33f"
         }
     },
     "extract_dir": "Chrome-bin",
