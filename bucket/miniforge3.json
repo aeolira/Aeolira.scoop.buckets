@@ -47,10 +47,7 @@
             "New-Item \"$dir\\envs\" -ItemType Directory | Out-Null"
         ]
     },
-    "checkver": {
-        "github": "https://github.com/conda-forge/miniforge",
-        "regex": "tag/([\\d.-]+)"
-    },
+    "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
