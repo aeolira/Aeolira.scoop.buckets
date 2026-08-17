@@ -1,5 +1,5 @@
 {
-    "version": "3.95.1-01",
+    "version": "3.90.5-01",
     "description": "The free artifact repository with universal format support",
     "homepage": "https://www.sonatype.com/products/repository-oss",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://download.sonatype.com/nexus/3/nexus-3.95.1-01-win-x86_64.zip",
-            "hash": "61d97459e582909832b310777465fc1037197492f382262bba67b37b88c90d14"
+            "url": "https://download.sonatype.com/nexus/3/nexus-3.90.5-01-win-x86_64.zip",
+            "hash": "cce34ac0b47a1e63ff930d2e2f7889790c5f4c62d9cead6ee61fb3e731e4849e"
         }
     },
     "pre_install": "Get-Item \"$dir\\nexus-*\" | Rename-Item -NewName 'nexus'",
