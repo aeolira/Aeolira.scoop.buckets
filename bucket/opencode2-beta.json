@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://registry.npmjs.org/@opencode-ai/cli-windows-x64/-/cli-windows-x64-0.0.0-beta-17927.tgz",
-            "hash": "sha512:6f43fefd15e6eec2c95755c57cf53ebc54409727c2bbff092893a764f0afbd92af013c5a7f6440a16d746ffde2c60fdd1b2dc92a53c1251113f3a2d8f41e5972"
+            "hash": "0eb428a32d30673e28fff5664857d3497768bab090b2587671d87ecbf51a0f6f"
         },
         "arm64": {
             "url": "https://registry.npmjs.org/@opencode-ai/cli-windows-arm64/-/cli-windows-arm64-0.0.0-beta-17927.tgz",
-            "hash": "sha512:76fc12f168604ee8300a2bae581a9311ae76c409f5b59de80279e201dbafd257b2939f1107c7e14df1f4bf79de848bb27013b61effcd745dc3168bccc1271f3d"
+            "hash": "acec2ffb31212475ead0ff34cd683f3b9916a63540232e604dc48395570b738b"
         }
     },
     "extract_dir": "package\\bin",
