@@ -1,5 +1,5 @@
 {
-    "version": "8Dv1vp",
+    "version": "6KccwO",
     "description": "GN is a meta-build system that generates build files for Ninja.",
     "homepage": "https://gn.googlesource.com/gn",
     "license": "BSD-3-Clause",
@@ -9,8 +9,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://chrome-infra-packages.appspot.com/dl/gn/gn/windows-amd64/+/8Dv1vptVKxGYdwHmKPLeWhyZq45brQ3Yo4KSinkOJKQC#/gn-windows-amd64.zip",
-            "hash": "f03bf5be9b552b11987701e628f2de5a1c99ab8e5bad0dd8a382928a790e24a4"
+            "url": "https://chrome-infra-packages.appspot.com/dl/gn/gn/windows-amd64/+/6KccwOIUe7fkTjqmAJhCuY51aVrCKpbiSXk10DnD4T4C#/gn-windows-amd64.zip",
+            "hash": "e8a71cc0e2147bb7e44e3aa6009842b98e75695ac22a96e2497935d039c3e13e"
         }
     },
     "bin": "gn.exe",
