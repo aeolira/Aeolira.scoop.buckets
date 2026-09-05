@@ -12,11 +12,11 @@
     "architecture": {
         "64bit": {
             "url": "https://archive.mozilla.org/pub/firefox/nightly/2026/09/2026-09-04-16-04-49-mozilla-central/firefox-157.0a1.en-US.win64.installer.exe#/dl.7z",
-            "hash": "sha512:eab86c6844a4e9bddc8ff5fc9223c6cd596e6eb7ce07146d62b732d572a3555062178af38617f2b3ca29f45e02ba5d262c9a84ac9fe467e44bc06de4bced29b0"
+            "hash": "935853f12183a08ca12706a94fec24c811766fdec5a21c73ae383c02000da6fa"
         },
         "32bit": {
             "url": "https://archive.mozilla.org/pub/firefox/nightly/2026/09/2026-09-04-16-04-49-mozilla-central/firefox-157.0a1.en-US.win32.installer.exe#/dl.7z",
-            "hash": "sha512:2f6a3ea57550fc0495b5a56dd64cb02fdc42af3ad1ada846d1cfd82c861075f036055015fc9df06acd2d66873d8365c3d81377f82e1d1cda3e7ac6f246284063"
+            "hash": "a60f8006af7a9657fd8c16c65463dc0f4ee6032ec80433657dde840d2c9c39b8"
         }
     },
     "extract_dir": "core",
